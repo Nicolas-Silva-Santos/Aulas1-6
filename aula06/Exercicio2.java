@@ -5,7 +5,7 @@ public class Exercicio2 {
         saudar("Maria");
         saudar("Pedro");
 
-        apresentar("Gustavo", 18);
+        apresentar("Nicolas", 18);
     }
 
     public static void saudar(String nome) {
