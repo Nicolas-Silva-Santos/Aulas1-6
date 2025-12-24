@@ -2,10 +2,10 @@ public class Exercicio1 {
     public static void main(String[] args) {
 
         int idade = 18;
-        double altura = 1.75;
-        String nome = "Gustavo Wuerges";
+        double altura = 1.80;
+        String nome = "Nicolas";
         boolean ativo = true;
-        char inicial = 'G';
+        char inicial = 'N';
 
         System.out.println("Idade: " + idade);
         System.out.println("Altura: " + altura);
